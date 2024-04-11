@@ -14,7 +14,7 @@
 ## TOOLS
 <div align-center>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Sevlte-FF3E00?style=for-the-badge&logo=Sevlte&logoColor=black">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=black">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=black">
 </div>
 
